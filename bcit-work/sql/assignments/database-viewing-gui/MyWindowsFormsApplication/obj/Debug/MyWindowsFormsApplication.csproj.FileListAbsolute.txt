@@ -1,0 +1,12 @@
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Lectures\Week03\MyWindowsFormsApplication\MyWindowsFormsApplication\bin\Debug\MyWindowsFormsApplication.exe.config
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Lectures\Week03\MyWindowsFormsApplication\MyWindowsFormsApplication\bin\Debug\MyWindowsFormsApplication.exe
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Lectures\Week03\MyWindowsFormsApplication\MyWindowsFormsApplication\bin\Debug\MyWindowsFormsApplication.pdb
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Lectures\Week03\MyWindowsFormsApplication\MyWindowsFormsApplication\obj\Debug\MyWindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Lectures\Week03\MyWindowsFormsApplication\MyWindowsFormsApplication\obj\Debug\MyWindowsFormsApplication.Properties.Resources.resources
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Lectures\Week03\MyWindowsFormsApplication\MyWindowsFormsApplication\obj\Debug\MyWindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Lectures\Week03\MyWindowsFormsApplication\MyWindowsFormsApplication\obj\Debug\MyWindowsFormsApplication.exe
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Lectures\Week03\MyWindowsFormsApplication\MyWindowsFormsApplication\obj\Debug\MyWindowsFormsApplication.pdb
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Lectures\Week03\MyWindowsFormsApplication\MyWindowsFormsApplication\obj\Debug\MyWindowsFormsApplication.DatabaseViewer.resources
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment02\MyWindowsFormsApplication\MyWindowsFormsApplication\bin\Debug\MyWindowsFormsApplication.exe.config
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment02\MyWindowsFormsApplication\MyWindowsFormsApplication\obj\Debug\MyWindowsFormsApplication.exe
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment02\MyWindowsFormsApplication\MyWindowsFormsApplication\obj\Debug\MyWindowsFormsApplication.pdb
