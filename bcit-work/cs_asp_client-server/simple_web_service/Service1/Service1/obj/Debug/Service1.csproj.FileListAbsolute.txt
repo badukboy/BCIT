@@ -1,0 +1,10 @@
+C:\inetpub\wwwroot\Sandbox\Service1\Service1\Service1\bin\Service1.dll
+C:\inetpub\wwwroot\Sandbox\Service1\Service1\Service1\bin\Service1.pdb
+C:\inetpub\wwwroot\Sandbox\Service1\Service1\Service1\obj\Debug\Service1.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Sandbox\Service1\Service1\Service1\obj\Debug\Service1.dll
+C:\inetpub\wwwroot\Sandbox\Service1\Service1\Service1\obj\Debug\Service1.pdb
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1\Service1\bin\Service1.dll
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1\Service1\bin\Service1.pdb
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1\Service1\obj\Debug\Service1.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1\Service1\obj\Debug\Service1.dll
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1\Service1\obj\Debug\Service1.pdb

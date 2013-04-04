@@ -1,0 +1,86 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 11.00.50727.1 (055a9280).
+//
+// c:\users\kevin\desktop\bcit\level3\comp3940\labs\lab06\partb\csharpserver.tlh
+//
+// C++ source equivalent of Win32 type library CSharpServer.tlb
+// compiler-generated file created 10/16/12 at 16:41:55 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("dcce7dc2-73d8-352b-94cf-83ec7654c549"))
+/* LIBID */ __CSharpServer;
+struct __declspec(uuid("dbe0e8c4-1c61-41f3-b6a4-4e2f353d3d05"))
+/* dual interface */ IManagedInterface;
+struct /* coclass */ InterfaceImplementation;
+struct __declspec(uuid("75823b2a-d79e-3691-9667-846261e328ab"))
+/* dual interface */ _InterfaceImplementation;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(IManagedInterface, __uuidof(IManagedInterface));
+_COM_SMARTPTR_TYPEDEF(_InterfaceImplementation, __uuidof(_InterfaceImplementation));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("dbe0e8c4-1c61-41f3-b6a4-4e2f353d3d05"))
+IManagedInterface : IDispatch
+{
+    //
+    // Wrapper methods for error-handling
+    //
+
+    long mathIsFun (
+        _bstr_t x,
+        _bstr_t y );
+
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall raw_mathIsFun (
+        /*[in]*/ BSTR x,
+        /*[in]*/ BSTR y,
+        /*[out,retval]*/ long * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("c6659361-1625-4746-931c-36014b146679"))
+InterfaceImplementation;
+    // [ default ] interface _InterfaceImplementation
+    // interface _Object
+    // interface IManagedInterface
+
+struct __declspec(uuid("75823b2a-d79e-3691-9667-846261e328ab"))
+_InterfaceImplementation : IDispatch
+{};
+
+//
+// Named GUID constants initializations
+//
+
+extern "C" const GUID __declspec(selectany) LIBID_CSharpServer =
+    {0xdcce7dc2,0x73d8,0x352b,{0x94,0xcf,0x83,0xec,0x76,0x54,0xc5,0x49}};
+extern "C" const GUID __declspec(selectany) IID_IManagedInterface =
+    {0xdbe0e8c4,0x1c61,0x41f3,{0xb6,0xa4,0x4e,0x2f,0x35,0x3d,0x3d,0x05}};
+extern "C" const GUID __declspec(selectany) CLSID_InterfaceImplementation =
+    {0xc6659361,0x1625,0x4746,{0x93,0x1c,0x36,0x01,0x4b,0x14,0x66,0x79}};
+extern "C" const GUID __declspec(selectany) IID__InterfaceImplementation =
+    {0x75823b2a,0xd79e,0x3691,{0x96,0x67,0x84,0x62,0x61,0xe3,0x28,0xab}};
+
+//
+// Wrapper method implementations
+//
+
+#include "c:\users\kevin\desktop\bcit\level3\comp3940\labs\lab06\partb\csharpserver.tli"
+
+#pragma pack(pop)

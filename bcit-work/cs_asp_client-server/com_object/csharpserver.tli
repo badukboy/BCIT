@@ -1,0 +1,19 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 11.00.50727.1 (055a9280).
+//
+// c:\users\kevin\desktop\bcit\level3\comp3940\labs\lab06\partb\csharpserver.tli
+//
+// Wrapper implementations for Win32 type library CSharpServer.tlb
+// compiler-generated file created 10/16/12 at 16:41:55 - DO NOT EDIT!
+
+#pragma once
+
+//
+// interface IManagedInterface wrapper method implementations
+//
+
+inline long IManagedInterface::mathIsFun ( _bstr_t x, _bstr_t y ) {
+    long _result = 0;
+    HRESULT _hr = raw_mathIsFun(x, y, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}

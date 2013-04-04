@@ -1,0 +1,10 @@
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1Console\Service1Console\bin\Debug\Service1Console.exe.config
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1Console\Service1Console\bin\Debug\Service1Console.exe
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1Console\Service1Console\bin\Debug\Service1Console.pdb
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1Console\Service1Console\obj\Debug\Service1Console.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1Console\Service1Console\obj\Debug\Service1Console.exe
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1Console\Service1Console\obj\Debug\Service1Console.pdb
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1Console\Service1Console\bin\Debug\Service1Console.exe.manifest
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1Console\Service1Console\bin\Debug\Service1Console.application
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1Console\Service1Console\obj\Debug\Service1Console.exe.manifest
+C:\Users\Kevin\Desktop\BCIT\LEVEL3\COMP3940\Assignments\Assignment05\Service1Console\Service1Console\obj\Debug\Service1Console.application
