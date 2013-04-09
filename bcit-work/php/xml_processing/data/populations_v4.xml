@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : populations_v4.xml
+    Created on : February 13, 2013
+    Author     : Kevin Csapko
+    Description: British Columbia Regional District and Municipal Population 
+                 Estimates, version 4 based on feedback from Lab 3 and 4.
+-->
+
+<district name="Fraser Valley">
+    <districtcode type="C">
+        <area name="Abbotsford" sgc="9052">
+            <population year="2006">129345</population>
+            <population year="2007">131243</population>
+            <population year="2008">133547</population>
+            <population year="2009">136021</population>
+            <population year="2010">138124</population>
+            <population year="2011">139430</population>
+            <population year="2012">140235</population>
+        </area>
+        <area name="Chilliwack" sgc="9020">
+            <population year="2006">71298</population>
+            <population year="2007">73296</population>
+            <population year="2008">74943</population>
+            <population year="2009">76193</population>
+            <population year="2010">77944</population>
+            <population year="2011">78947</population>
+            <population year="2012">79617</population>
+        </area>
+    </districtcode>
+    <districtcode type="VL">
+        <area name="Harrison Hot Springs" sgc="9027">
+            <population year="2006">1578</population>
+            <population year="2007">1584</population>
+            <population year="2008">1597</population>
+            <population year="2009">1596</population>
+            <population year="2010">1597</population>
+            <population year="2011">1598</population>
+            <population year="2012">1606</population>
+        </area>
+    </districtcode>
+    <districtcode type="DM">
+        <area name="Hope" sgc="9009">
+            <population year="2006">6243</population>
+            <population year="2007">6161</population>
+            <population year="2008">6203</population>
+            <population year="2009">6276</population>
+            <population year="2010">6319</population>
+            <population year="2011">6204</population>
+            <population year="2012">6136</population>
+        </area>
+        <area name="Kent" sgc="9032">
+            <population year="2006">5318</population>
+            <population year="2007">5341</population>
+            <population year="2008">5461</population>
+            <population year="2009">5521</population>
+            <population year="2010">5577</population>
+            <population year="2011">5539</population>
+            <population year="2012">5564</population>
+        </area>
+        <area name="Mission" sgc="9056">
+            <population year="2006">35741</population>
+            <population year="2007">36281</population>
+            <population year="2008">36758</population>
+            <population year="2009">37210</population>
+            <population year="2010">37559</population>
+            <population year="2011">37395</population>
+            <population year="2012">37614</population>
+        </area>
+    </districtcode>
+    <districtcode type="RDR">
+        <area name="Unincorporated Areas" sgc="9999">
+            <population year="2006">17204</population>
+            <population year="2007">17365</population>
+            <population year="2008">17807</population>
+            <population year="2009">17714</population>
+            <population year="2010">17761</population>
+            <population year="2011">18046</population>
+            <population year="2012">18046</population>
+        </area>
+    </districtcode>
+</district>
+    

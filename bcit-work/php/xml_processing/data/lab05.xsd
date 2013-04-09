@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    
+	<!--
+		REFERENCES
+	-->
+
+	<xs:attribute name="name" type="xs:string" />
+	<xs:attribute name="sgc" type="xs:integer" />
+	<xs:attribute name="type" type="xs:string" />
+	<xs:attribute name="year" type="xs:string" />
+	
+	<!-- 
+		A district contains an element "districtcode" and attributes "name", "sgc" 
+		References: districtcode, name, sgc
+	-->
+	<xs:element name="district">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="districtcode" maxOccurs="unbounded" />
+			</xs:sequence>
+		<xs:attribute ref="name" />
+		<xs:attribute ref="sgc" />
+		</xs:complexType>
+	</xs:element>
+	
+	<!-- 
+		A districtcode contains an element "area" and attribute "type" 
+		References: area, type
+	-->
+	<xs:element name="districtcode">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="area" maxOccurs="unbounded" />
+			</xs:sequence>
+			<xs:attribute ref="type" />
+		</xs:complexType>
+	</xs:element>
+	
+	<!-- 
+		An area contains an element "population" and attributes "name", "sgc" 
+		References: population, name, sgc
+	-->
+	<xs:element name="area">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="population" maxOccurs="unbounded" />
+			</xs:sequence>
+			<xs:attribute ref="name" />
+			<xs:attribute ref="sgc" />
+		</xs:complexType>
+	</xs:element>
+	
+	<!-- 
+		A population contains an attribute "year" 
+		References: year
+	-->
+	<xs:element name="population">
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute ref="year" />
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

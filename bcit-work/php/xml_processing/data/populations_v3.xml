@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : populations_v3.xml
+    Created on : February 05, 2013
+    Author     : Kevin Csapko
+    Description: British Columbia Regional District and Municipal Population 
+                 Estimates, version 3 based on feedback from Lab 3 and 4.
+-->
+
+<district name="Fraser Valley"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="populations_v3.xsd">
+    <record>
+        <region sgc="9052" type="C">Abbotsford</region>
+        <year>2006</year>
+        <population>129345</population>
+    </record>
+    <record>
+        <region sgc="9052" type="C">Abbotsford</region>
+        <year>2007</year>
+        <population>131243</population>
+    </record>
+    <record>
+        <region sgc="9052" type="C">Abbotsford</region>
+        <year>2008</year>
+        <population>133547</population>
+    </record>
+    <record>
+        <region sgc="9052" type="C">Abbotsford</region>
+        <year>2009</year>
+        <population>136021</population>
+    </record>
+    <record>
+        <region sgc="9052" type="C">Abbotsford</region>
+        <year>2010</year>
+        <population>138124</population>
+    </record>
+    <record>
+        <region sgc="9052" type="C">Abbotsford</region>
+        <year>2011</year>
+        <population>139430</population>
+    </record>
+    <record>
+        <region sgc="9052" type="C">Abbotsford</region>
+        <year>2012</year>
+        <population>140235</population>
+    </record>
+    <record>
+        <region sgc="9020" type="C">Chilliwack</region>
+        <year>2006</year>
+        <population>71298</population>
+    </record>
+    <record>
+        <region sgc="9020" type="C">Chilliwack</region>
+        <year>2007</year>
+        <population>73296</population>
+    </record>
+    <record>
+        <region sgc="9020" type="C">Chilliwack</region>
+        <year>2008</year>
+        <population>74943</population>
+    </record>
+    <record>
+        <region sgc="9020" type="C">Chilliwack</region>
+        <year>2009</year>
+        <population>76193</population>
+    </record>
+    <record>
+        <region sgc="9020" type="C">Chilliwack</region>
+        <year>2010</year>
+        <population>77944</population>
+    </record>
+    <record>
+        <region sgc="9020" type="C">Chilliwack</region>
+        <year>2011</year>
+        <population>78947</population>
+    </record>
+    <record>
+        <region sgc="9020" type="C">Chilliwack</region>
+        <year>2012</year>
+        <population>79617</population>
+    </record>
+    <record>
+        <region sgc="9027" type="VL">Harrison Hot Springs</region>
+        <year>2006</year>
+        <population>1578</population>
+    </record>
+    <record>
+        <region sgc="9027" type="VL">Harrison Hot Springs</region>
+        <year>2007</year>
+        <population>1584</population>
+    </record>
+    <record>
+        <region sgc="9027" type="VL">Harrison Hot Springs</region>
+        <year>2008</year>
+        <population>1597</population>
+    </record>
+    <record>
+        <region sgc="9027" type="VL">Harrison Hot Springs</region>
+        <year>2009</year>
+        <population>1596</population>
+    </record>
+    <record>
+        <region sgc="9027" type="VL">Harrison Hot Springs</region>
+        <year>2010</year>
+        <population>1597</population>
+    </record>
+    <record>
+        <region sgc="9027" type="VL">Harrison Hot Springs</region>
+        <year>2011</year>
+        <population>1598</population>
+    </record>
+    <record>
+        <region sgc="9027" type="VL">Harrison Hot Springs</region>
+        <year>2012</year>
+        <population>1606</population>
+    </record>
+    <record>
+        <region sgc="9009" type="DM">Hope</region>
+        <year>2006</year>
+        <population>6243</population>
+    </record>
+    <record>
+        <region sgc="9009" type="DM">Hope</region>
+        <year>2007</year>
+        <population>6161</population>
+    </record>
+    <record>
+        <region sgc="9009" type="DM">Hope</region>
+        <year>2008</year>
+        <population>6203</population>
+    </record>
+    <record>
+        <region sgc="9009" type="DM">Hope</region>
+        <year>2009</year>
+        <population>6276</population>
+    </record>
+    <record>
+        <region sgc="9009" type="DM">Hope</region>
+        <year>2010</year>
+        <population>6319</population>
+    </record>
+    <record>
+        <region sgc="9009" type="DM">Hope</region>
+        <year>2011</year>
+        <population>6204</population>
+    </record>
+    <record>
+        <region sgc="9009" type="DM">Hope</region>
+        <year>2012</year>
+        <population>6136</population>
+    </record>
+    <record>
+        <region sgc="9032" type="DM">Kent</region>
+        <year>2006</year>
+        <population>5318</population>
+    </record>
+    <record>
+        <region sgc="9032" type="DM">Kent</region>
+        <year>2007</year>
+        <population>5341</population>
+    </record>
+    <record>
+        <region sgc="9032" type="DM">Kent</region>
+        <year>2008</year>
+        <population>5461</population>
+    </record>
+    <record>
+        <region sgc="9032" type="DM">Kent</region>
+        <year>2009</year>
+        <population>5521</population>
+    </record>
+    <record>
+        <region sgc="9032" type="DM">Kent</region>
+        <year>2010</year>
+        <population>5577</population>
+    </record>
+    <record>
+        <region sgc="9032" type="DM">Kent</region>
+        <year>2011</year>
+        <population>5539</population>
+    </record>
+    <record>
+        <region sgc="9032" type="DM">Kent</region>
+        <year>2012</year>
+        <population>5564</population>
+    </record>
+    <record>
+        <region sgc="9056" type="DM">Mission</region>
+        <year>2006</year>
+        <population>35741</population>
+    </record>
+    <record>
+        <region sgc="9056" type="DM">Mission</region>
+        <year>2007</year>
+        <population>36281</population>
+    </record>
+    <record>
+        <region sgc="9056" type="DM">Mission</region>
+        <year>2008</year>
+        <population>36758</population>
+    </record>
+    <record>
+        <region sgc="9056" type="DM">Mission</region>
+        <year>2009</year>
+        <population>37210</population>
+    </record>
+    <record>
+        <region sgc="9056" type="DM">Mission</region>
+        <year>2010</year>
+        <population>37559</population>
+    </record>
+    <record>
+        <region sgc="9056" type="DM">Mission</region>
+        <year>2011</year>
+        <population>37395</population>
+    </record>
+    <record>
+        <region sgc="9056" type="DM">Mission</region>
+        <year>2012</year>
+        <population>37614</population>
+    </record>
+    <record>
+        <region sgc="9999" type="RDR">Unincorporated Areas</region>
+        <year>2006</year>
+        <population>17204</population>
+    </record>
+    <record>
+        <region sgc="9999" type="RDR">Unincorporated Areas</region>
+        <year>2007</year>
+        <population>17365</population>
+    </record>
+    <record>
+        <region sgc="9999" type="RDR">Unincorporated Areas</region>
+        <year>2008</year>
+        <population>17807</population>
+    </record>
+    <record>
+        <region sgc="9999" type="RDR">Unincorporated Areas</region>
+        <year>2009</year>
+        <population>17714</population>
+    </record>
+    <record>
+        <region sgc="9999" type="RDR">Unincorporated Areas</region>
+        <year>2010</year>
+        <population>17761</population>
+    </record>
+    <record>
+        <region sgc="9999" type="RDR">Unincorporated Areas</region>
+        <year>2011</year>
+        <population>18046</population>
+    </record>
+    <record>
+        <region sgc="9999" type="RDR">Unincorporated Areas</region>
+        <year>2012</year>
+        <population>18047</population>
+    </record>
+</district>

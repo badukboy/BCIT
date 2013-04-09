@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+populates the table with regional district data of the specific area
+Information includes village, city, regional district unincorporated,
+and district municipality
+-->
+<district name="Fraser-Fort George" sgc="53000"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="lab05.xsd">
+    <districtcode type="VL">
+        <area name="Valemount" sgc="53007">
+            <population year="2006">1018</population>
+            <population year="2007">1077</population>
+            <population year="2008">1015</population>
+            <population year="2009">1045</population>
+            <population year="2010">1062</population>
+            <population year="2011">1070</population>
+            <population year="2012">1089</population>
+        </area>
+        <area name="McBride" sgc="53012">
+            <population year="2006">661</population>
+            <population year="2007">659</population>
+            <population year="2008">678</population>
+            <population year="2009">675</population>
+            <population year="2010">677</population>
+            <population year="2011">697</population>
+            <population year="2012">690</population>
+        </area>
+    </districtcode>
+    <districtcode type="C">
+        <area name="Prince George" sgc="53023">
+            <population year="2006">72890</population>
+            <population year="2007">73342</population>
+            <population year="2008">73899</population>
+            <population year="2009">74642</population>
+            <population year="2010">75538</population>
+            <population year="2011">75875</population>
+            <population year="2012">76286</population>
+        </area>
+    </districtcode>
+    <districtcode type="RDR">
+        <area name="Unincorporated Areas" sgc="53999">
+            <population year="2006">15231</population>
+            <population year="2007">15371</population>
+            <population year="2008">15555</population>
+            <population year="2009">15578</population>
+            <population year="2010">15556</population>
+            <population year="2011">15605</population>
+            <population year="2012">15602</population>
+        </area>
+    </districtcode>
+    <districtcode type="DM">
+        <area name="Mackenzie" sgc="53033">
+            <population year ="2006">4616</population>
+            <population year ="2007">4534</population>
+            <population year ="2008">4255</population>
+            <population year ="2009">3831</population>
+            <population year ="2010">3705</population>
+            <population year ="2011">3740</population>
+            <population year ="2012">3772</population>
+        </area>
+    </districtcode>
+</district>

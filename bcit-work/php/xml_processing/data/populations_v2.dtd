@@ -1,0 +1,35 @@
+<!--
+    Document   : populations_v2.dtd
+    Created on : February 2, 2013
+    Author     : Kevin Csapko
+    Description: British Columbia Regional District and Municipal Population 
+                 Estimates, version 2 DTD
+-->
+
+<!-- 
+    A district can have any amount of records, and the district name is
+    required.
+ -->
+<!ELEMENT district (record)+>
+<!ATTLIST district name CDATA #REQUIRED>
+
+<!--
+    Each record consists of a region, a year, and a population.
+-->
+<!ELEMENT record (region,year,population)>
+
+<!--
+    Each region must contain parsed character data (the region name), as well as
+    an attribute for the SGC (standard geographical classification), and the
+    region type (city, village, etc.)
+-->
+<!ELEMENT region (#PCDATA)>
+<!ATTLIST region sgc CDATA #REQUIRED>
+<!ATTLIST region type CDATA #REQUIRED>
+
+<!--
+    The year and population elements simply contain parsed character data that
+    holds the year and population of the region respectively.
+-->
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT population (#PCDATA)>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="year" type="xs:integer" />
+<xs:element name="population" type="xs:integer" />
+
+<xs:attribute name="name" type="xs:string" />
+<xs:attribute name="sgc" type="xs:integer" />
+<xs:attribute name="type" type="xs:string" />
+
+<xs:element name="region">
+    <xs:complexType>
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute ref="sgc" />
+                <xs:attribute ref="type" />
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+</xs:element>
+
+<xs:element name="district">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element ref="record" maxOccurs="unbounded" />
+        </xs:sequence>
+        <xs:attribute ref="name" />
+    </xs:complexType>
+</xs:element>
+
+<xs:element name="record">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element ref="region" />
+            <xs:element ref="year" />
+            <xs:element ref="population" />
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+
+</xs:schema>
